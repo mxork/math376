@@ -41,6 +41,14 @@ micro-organisms limited by a single nutrient (or substrate). It has been
 shown to have good agreement in the lab, and variations on it (with
 additional parameters) remain popular.
 
+Importantly for our situation, the Monod equation has the same form as
+the Michaelis-Menten equation, which models the rate of production in an
+enzyme catalyzed reaction under certain assumptions (loosely, irreversibility
+of the forward reaction). The similarity of the two equations are no coincidence;
+it is reasonable to assume under ideal growth conditions that micro-organisms
+are limited by a single, enzyme-mediated reaction (eg. glucose respiration).
+
+
 Lactic acid bacteria
 --------------------
 
